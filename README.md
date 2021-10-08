@@ -43,5 +43,13 @@ https://faizila.github.io/Updated-Professional-Portfolio/
 
 ## Screenshots of Deployed Application
 
+![screenshot1](https://user-images.githubusercontent.com/78191579/136487796-390a8bec-7c9c-4643-b436-7cbd15e33022.JPG)
+![screenshot2](https://user-images.githubusercontent.com/78191579/136487805-6722efeb-ea5c-45f1-946f-1bcb481217ec.JPG)
+![screenshot3](https://user-images.githubusercontent.com/78191579/136487810-e005a9c5-f0e7-4f35-824b-f886eab4e3e3.JPG)
+![screenshot4](https://user-images.githubusercontent.com/78191579/136487816-11c6975b-4593-4d2e-96b9-b34e61dbae21.JPG)
+![screenshot5](https://user-images.githubusercontent.com/78191579/136487828-234df417-71dd-44f0-b27f-ed2c6fbc229c.JPG)
+
+
+
 
 
