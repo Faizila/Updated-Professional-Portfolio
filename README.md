@@ -25,7 +25,7 @@
 
 * Resume section gives the user a brief summary of my technical skills and projects. It also has a PDF icon that user can click to view and download the PDF version of my resume.
 
-* My portfolio section lets the user visit the deployed applications. Once user will hover over the image, a link will be visible to the user and will take the user to the corresponding webpage.
+* My portfolio section lets the user visit the deployed applications. Once user will hover over the image, two links will be visible to the user and will take the user to the corresponding Git Repo/Webpage.
 
 * Contact Me section has my email and phone number listed on left side of the page followed by a contact form on the right side of the page. User can also fill out the form to reach me through the portfolio page via email message.
 
