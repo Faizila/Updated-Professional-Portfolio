@@ -2,6 +2,10 @@
 
 * This portfolio page is a collection of my work to showcase my experience, capability and potential. 
 
+## Link of Deployed Application
+
+https://faizila.github.io/Updated-Professional-Portfolio/
+
 # Table of Contents
 
 1. Full Name
@@ -37,18 +41,14 @@
 * Box Icons
 * Google Fonts
 
-## Link of Deployed Application
-
-https://faizila.github.io/Updated-Professional-Portfolio/
-
 ## Screenshots of Deployed Application
 
 ![screenshot1](https://user-images.githubusercontent.com/78191579/136487796-390a8bec-7c9c-4643-b436-7cbd15e33022.JPG)
 ![screenshot2](https://user-images.githubusercontent.com/78191579/136487805-6722efeb-ea5c-45f1-946f-1bcb481217ec.JPG)
-![screenshot3](https://user-images.githubusercontent.com/78191579/136487810-e005a9c5-f0e7-4f35-824b-f886eab4e3e3.JPG)
-![screenshot4](https://user-images.githubusercontent.com/78191579/136487816-11c6975b-4593-4d2e-96b9-b34e61dbae21.JPG)
+![screenshot3](https://user-images.githubusercontent.com/78191579/140424053-995a35e9-9f33-4039-865e-d0d0680dba69.JPG)
+![screenshot4](https://user-images.githubusercontent.com/78191579/140424061-5cee70cd-0e43-408e-bf04-8a968d10aec7.JPG)
+![screenshot6](https://user-images.githubusercontent.com/78191579/140424408-42e7d398-4a40-4323-8d2c-ed181faa6eea.JPG)
 ![screenshot5](https://user-images.githubusercontent.com/78191579/136497363-39ba0311-23bd-4ef5-b43b-53172a7bb54c.JPG)
-
 
 ## Reference
 
